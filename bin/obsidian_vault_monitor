@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+inotifywait -m \
+  -e close_write \
+  -e move \
+  --format "%T %e %f" --timefmt "%F %T" \
+  $(dirname $(realpath $0))/../share/obsidian/vault/
+
