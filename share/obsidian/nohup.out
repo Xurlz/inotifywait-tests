@@ -1,0 +1,49 @@
+xdg-settings: unknown desktop environment
+2026-09-22 17:29:00 Loaded updated app package /home/charles/.config/obsidian/obsidian-1.13.7.asar
+[6712:0922/142901.175341:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6712:0922/142901.175894:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6712:0922/142901.176081:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+2026-09-22 17:29:01 Checking for update using Github
+[6712:0922/142901.178763:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6712:0922/142901.178999:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6712:0922/142901.179144:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[6712:0922/142901.179286:ERROR:ui/gl/gl_display.cc:674] Initialization of all EGL display types failed.
+[6712:0922/142901.179445:ERROR:ui/ozone/common/gl_ozone_egl.cc:26] GLDisplayEGL::Initialize failed.
+[6712:0922/142901.186488:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6712:0922/142901.187126:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6712:0922/142901.187299:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[6712:0922/142901.190332:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6712:0922/142901.190624:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6712:0922/142901.190803:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[6712:0922/142901.190985:ERROR:ui/gl/gl_display.cc:674] Initialization of all EGL display types failed.
+[6712:0922/142901.191164:ERROR:ui/ozone/common/gl_ozone_egl.cc:26] GLDisplayEGL::Initialize failed.
+[6712:0922/142901.193996:ERROR:components/viz/service/main/viz_main_impl.cc:189] Exiting GPU process due to errors during initialization
+2026-09-22 17:29:01 Success.
+2026-09-22 17:29:01 Latest version is 1.13.7
+2026-09-22 17:29:01 App is up to date.
+[6735:0922/142901.240705:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6735:0922/142901.241173:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6735:0922/142901.241565:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[6735:0922/142901.245003:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6735:0922/142901.245390:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6735:0922/142901.245583:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[6735:0922/142901.245793:ERROR:ui/gl/gl_display.cc:674] Initialization of all EGL display types failed.
+[6735:0922/142901.246078:ERROR:ui/ozone/common/gl_ozone_egl.cc:26] GLDisplayEGL::Initialize failed.
+[6735:0922/142901.251292:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6735:0922/142901.251640:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6735:0922/142901.251835:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[6735:0922/142901.256542:ERROR:ui/gl/angle_platform_impl.cc:42] Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+ERR: Display.cpp:1093 (initialize): ANGLE Display::initialize error 12289: glXQueryExtensionsString returned NULL
+[6735:0922/142901.256884:ERROR:ui/gl/egl_util.cc:92] EGL Driver message (Critical) eglInitialize: glXQueryExtensionsString returned NULL
+[6735:0922/142901.257084:ERROR:ui/gl/gl_display.cc:639] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[6735:0922/142901.257275:ERROR:ui/gl/gl_display.cc:674] Initialization of all EGL display types failed.
+[6735:0922/142901.257425:ERROR:ui/ozone/common/gl_ozone_egl.cc:26] GLDisplayEGL::Initialize failed.
+[6735:0922/142901.260976:ERROR:components/viz/service/main/viz_main_impl.cc:189] Exiting GPU process due to errors during initialization
+Ignored: Error: ENOENT: no such file or directory, open '/home/charles/.config/obsidian/b8e8f40c9eab93e9.json'

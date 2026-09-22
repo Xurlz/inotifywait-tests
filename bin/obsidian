@@ -1,0 +1,4 @@
+#!/usr/local/env sh
+
+nohup obsidian 2>&1 > ../share/obsidian/nohup.out
+
