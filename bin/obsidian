@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-nohup obsidian 2>&1 > $(dirname $(realpath $0))/../share/obsidian/nohup.out
+nohup /usr/sbin/obsidian 2>&1 > $(dirname $(realpath $0))/../share/obsidian/nohup.out &
 
