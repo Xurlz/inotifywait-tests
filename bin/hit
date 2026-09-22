@@ -1,7 +1,4 @@
 #!/usr/bin/env sh
 
-__DIR__=$(dirname $(realpath $0))
-
-
-git --git-dir=${__DIR__}/../share/git/obsidian-vault.git --work-tree=${__DIR__}/../share/obsidian/vault "$@"
+git --git-dir=$(__DIR__)/../share/git/obsidian-vault.git --work-tree=$(__DIR__)/../share/obsidian/vault "$@"
 
