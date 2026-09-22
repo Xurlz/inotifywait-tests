@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+__DIR__=$(dirname $(realpath $0))
+
+echo ${__DIR__}
+
