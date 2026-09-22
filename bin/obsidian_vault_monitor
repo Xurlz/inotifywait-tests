@@ -1,8 +1,10 @@
 #!/usr/bin/env sh
 
 inotifywait -m \
+  -e create \
   -e close_write \
   -e move \
-  --format "%T %e %f" --timefmt "%F %T" \
-  $(dirname $(realpath $0))/../share/obsidian/vault/
+  --format "sleep 1; hit add %f; hit commit -m '%T %e %f'" --timefmt "%F %T" \
+  $(dirname $(realpath $0))/../share/obsidian/vault/  | \
+  sh
 
